@@ -34,12 +34,22 @@ public class GroupEProject {
         }
         userKB.close();
     }
+    // ADD YOUR CODE HERE
+    
+    // Second student code 
+    static void secondStudentMethod(){
+         int a = 1;
+         int b = 5;
+         int ab = a + b;
+         System.out.println(ab);
+    }
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         bekezhanMethod();
+        secondStudentMethod();
 
 
     }
